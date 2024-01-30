@@ -1,0 +1,1 @@
+java -jar mm-1.0-SNAPSHOT.jar
