@@ -1,4 +1,6 @@
 # mm
+How to run: Go to the deploy folder, run the start.sh file (with Linux) or Start.bat (with Windowsn) to start the program
+
 Some assumptions:
 + To put it simply, I don't deal with the database layer.
 + I use a simple solution to combat race conditions when paying multiple bills at the same time.

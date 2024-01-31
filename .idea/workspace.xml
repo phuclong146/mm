@@ -4,37 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c68d8fd5-b6bb-4682-b028-a58c0f3152c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/controller/AutoPayController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/controller/BillController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/controller/PayController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/controller/WalletController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/enums/BillState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/enums/BillType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/enums/ErrorCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/job/AutoPayScheduler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/model/Bill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/model/BillAutoPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/model/BillStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/model/Wallet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/model/WalletStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/model/exception/AmountInvalidException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/model/exception/BalanceNotEnoughException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/model/exception/BillNotExistsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/model/exception/BillPaidException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/home/view/ControlShell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AllTestsSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AutoPayTestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BillTestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PayTestCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WalletTestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy/mm-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/mm-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/home/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/home/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="c68d8fd5-b6bb-4682-b028-a58c0f3152c9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,7 +148,7 @@
       <workItem from="1706606648113" duration="122000" />
       <workItem from="1706606786610" duration="96000" />
       <workItem from="1706606980747" duration="15870000" />
-      <workItem from="1706668753107" duration="21725000" />
+      <workItem from="1706668753107" duration="22026000" />
     </task>
     <servers />
   </component>
